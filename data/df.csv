@@ -1,0 +1,85 @@
+match,player,xG,PSxG,outcome,distance,body_part
+"Ipswich Town vs. Liverpool Match Report – Saturday August 17, 2024",Mohamed Salah,0.02,0.00,Blocked,16,Left Foot
+"Ipswich Town vs. Liverpool Match Report – Saturday August 17, 2024",Mohamed Salah,0.41,0.82,Goal,7,Left Foot
+"Ipswich Town vs. Liverpool Match Report – Saturday August 17, 2024",Mohamed Salah,0.21,0.26,Saved,19,Left Foot
+"Ipswich Town vs. Liverpool Match Report – Saturday August 17, 2024",Mohamed Salah,0.06,0.05,Saved,11,Left Foot
+"Liverpool vs. Brentford Match Report – Sunday August 25, 2024",Mohamed Salah,0.09,0.00,Off Target,13,Left Foot
+"Liverpool vs. Brentford Match Report – Sunday August 25, 2024",Mohamed Salah,0.04,0.03,Saved,18,Left Foot
+"Liverpool vs. Brentford Match Report – Sunday August 25, 2024",Mohamed Salah,0.43,0.58,Goal,12,Left Foot
+"Manchester United vs. Liverpool Match Report – Sunday September 1, 2024North West Derby",Mohamed Salah,0.20,0.77,Goal,16,Left Foot
+"Manchester United vs. Liverpool Match Report – Sunday September 1, 2024North West Derby",Mohamed Salah,0.32,0.00,Off Target,14,Left Foot
+"Manchester United vs. Liverpool Match Report – Sunday September 1, 2024North West Derby",Mohamed Salah,0.06,0.00,Blocked,17,Left Foot
+"Liverpool vs. Nottingham Forest Match Report – Saturday September 14, 2024",Mohamed Salah,0.07,0.18,Saved,11,Right Foot
+"Liverpool vs. Nottingham Forest Match Report – Saturday September 14, 2024",Mohamed Salah,0.04,0.00,Off Target,23,Left Foot
+"Liverpool vs. Nottingham Forest Match Report – Saturday September 14, 2024",Mohamed Salah,0.02,0.04,Saved,18,Left Foot
+"Liverpool vs. Bournemouth Match Report – Saturday September 21, 2024",Mohamed Salah,0.10,0.24,Saved,16,Left Foot
+"Liverpool vs. Bournemouth Match Report – Saturday September 21, 2024",Mohamed Salah,0.07,0.38,Saved,16,Left Foot
+"Liverpool vs. Bournemouth Match Report – Saturday September 21, 2024",Mohamed Salah,0.27,0.59,Saved,6,Left Foot
+"Liverpool vs. Bournemouth Match Report – Saturday September 21, 2024",Mohamed Salah,0.17,0.00,Blocked,10,Right Foot
+"Wolverhampton Wanderers vs. Liverpool Match Report – Saturday September 28, 2024",Mohamed Salah,0.49,0.00,Off Target,17,Right Foot
+"Wolverhampton Wanderers vs. Liverpool Match Report – Saturday September 28, 2024",Mohamed Salah,0.04,0.05,Saved,19,Left Foot
+"Crystal Palace vs. Liverpool Match Report – Saturday October 5, 2024",Mohamed Salah,0.03,0.00,Blocked,17,Left Foot
+"Crystal Palace vs. Liverpool Match Report – Saturday October 5, 2024",Mohamed Salah,0.18,0.23,Saved,11,Left Foot
+"Liverpool vs. Chelsea Match Report – Sunday October 20, 2024",Mohamed Salah,0.02,0.00,Blocked,21,Left Foot
+"Arsenal vs. Liverpool Match Report – Sunday October 27, 2024",Mohamed Salah,0.03,0.00,Off Target,29,Left Foot
+"Arsenal vs. Liverpool Match Report – Sunday October 27, 2024",Mohamed Salah,0.03,0.13,Saved,8,Right Foot
+"Arsenal vs. Liverpool Match Report – Sunday October 27, 2024",Mohamed Salah,0.29,0.79,Goal,13,Left Foot
+"Liverpool vs. Brighton & Hove Albion Match Report – Saturday November 2, 2024",Mohamed Salah,0.25,0.00,Off Target,5,Right Foot
+"Liverpool vs. Brighton & Hove Albion Match Report – Saturday November 2, 2024",Mohamed Salah,0.22,0.29,Saved,11,Left Foot
+"Liverpool vs. Brighton & Hove Albion Match Report – Saturday November 2, 2024",Mohamed Salah,0.06,0.16,Goal,16,Left Foot
+"Liverpool vs. Aston Villa Match Report – Saturday November 9, 2024",Mohamed Salah,0.06,0.00,Blocked,15,Left Foot
+"Liverpool vs. Aston Villa Match Report – Saturday November 9, 2024",Mohamed Salah,0.06,0.00,Blocked,22,Left Foot
+"Liverpool vs. Aston Villa Match Report – Saturday November 9, 2024",Mohamed Salah,0.67,0.72,Goal,6,Left Foot
+"Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.06,0.27,Saved,16,Left Foot
+"Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.04,0.00,Off Target,9,Left Foot
+"Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.12,0.19,Saved,9,Left Foot
+"Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.52,0.88,Goal,17,Left Foot
+"Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.16,0.00,Off Target,14,Left Foot
+"Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.18,0.00,Woodwork,6,Left Foot
+"Liverpool vs. Manchester City Match Report – Sunday December 1, 2024",Mohamed Salah,0.53,0.00,Off Target,16,Left Foot
+"Liverpool vs. Manchester City Match Report – Sunday December 1, 2024",Mohamed Salah,0.03,0.00,Off Target,18,Left Foot
+"Newcastle United vs. Liverpool Match Report – Wednesday December 4, 2024",Mohamed Salah,0.04,0.00,Blocked,12,Left Foot
+"Newcastle United vs. Liverpool Match Report – Wednesday December 4, 2024",Mohamed Salah,0.44,0.96,Goal,5,Right Foot
+"Newcastle United vs. Liverpool Match Report – Wednesday December 4, 2024",Mohamed Salah,0.07,0.00,Woodwork,10,Right Foot
+"Newcastle United vs. Liverpool Match Report – Wednesday December 4, 2024",Mohamed Salah,0.13,0.86,Goal,11,Left Foot
+"Liverpool vs. Fulham Match Report – Saturday December 14, 2024",Mohamed Salah,0.07,0.00,Off Target,13,Left Foot
+"Liverpool vs. Fulham Match Report – Saturday December 14, 2024",Mohamed Salah,0.08,0.00,Off Target,15,Left Foot
+"Liverpool vs. Fulham Match Report – Saturday December 14, 2024",Mohamed Salah,0.06,0.00,Off Target,18,Left Foot
+"Liverpool vs. Fulham Match Report – Saturday December 14, 2024",Mohamed Salah,0.01,0.00,Blocked,14,Left Foot
+"Tottenham Hotspur vs. Liverpool Match Report – Sunday December 22, 2024",Mohamed Salah,0.06,0.00,Off Target,17,Left Foot
+"Tottenham Hotspur vs. Liverpool Match Report – Sunday December 22, 2024",Mohamed Salah,0.44,0.91,Saved,5,Left Foot
+"Tottenham Hotspur vs. Liverpool Match Report – Sunday December 22, 2024",Mohamed Salah,0.20,0.00,Blocked,11,Left Foot
+"Tottenham Hotspur vs. Liverpool Match Report – Sunday December 22, 2024",Mohamed Salah,0.12,0.00,Blocked,13,Left Foot
+"Tottenham Hotspur vs. Liverpool Match Report – Sunday December 22, 2024",Mohamed Salah,0.07,0.00,Woodwork,11,Right Foot
+"Tottenham Hotspur vs. Liverpool Match Report – Sunday December 22, 2024",Mohamed Salah,0.87,1.00,Goal,4,Left Foot
+"Tottenham Hotspur vs. Liverpool Match Report – Sunday December 22, 2024",Mohamed Salah,0.62,0.87,Goal,11,Right Foot
+"Liverpool vs. Leicester City Match Report – Thursday December 26, 2024",Mohamed Salah,0.37,0.46,Saved,3,Right Foot
+"Liverpool vs. Leicester City Match Report – Thursday December 26, 2024",Mohamed Salah,0.04,0.00,Blocked,15,Right Foot
+"Liverpool vs. Leicester City Match Report – Thursday December 26, 2024",Mohamed Salah,0.11,0.00,Woodwork,15,Left Foot
+"Liverpool vs. Leicester City Match Report – Thursday December 26, 2024",Mohamed Salah,0.06,0.02,Saved,15,Left Foot
+"Liverpool vs. Leicester City Match Report – Thursday December 26, 2024",Mohamed Salah,0.05,0.41,Goal,15,Left Foot
+"West Ham United vs. Liverpool Match Report – Sunday December 29, 2024",Mohamed Salah,0.54,0.63,Saved,6,Left Foot
+"West Ham United vs. Liverpool Match Report – Sunday December 29, 2024",Mohamed Salah,0.06,0.08,Goal,17,Left Foot
+"West Ham United vs. Liverpool Match Report – Sunday December 29, 2024",Mohamed Salah,0.31,0.20,Saved,8,Left Foot
+"West Ham United vs. Liverpool Match Report – Sunday December 29, 2024",Mohamed Salah,0.48,0.47,Saved,14,Left Foot
+"West Ham United vs. Liverpool Match Report – Sunday December 29, 2024",Mohamed Salah,0.05,0.00,Off Target,14,Right Foot
+"West Ham United vs. Liverpool Match Report – Sunday December 29, 2024",Mohamed Salah,0.06,0.00,Off Target,15,Left Foot
+"West Ham United vs. Liverpool Match Report – Sunday December 29, 2024",Mohamed Salah,0.29,0.00,Off Target,16,Left Foot
+"Liverpool vs. Manchester United Match Report – Sunday January 5, 2025North West Derby",Mohamed Salah,0.07,0.00,Off Target,15,Left Foot
+"Liverpool vs. Manchester United Match Report – Sunday January 5, 2025North West Derby",Mohamed Salah,0.12,0.00,Off Target,24,Left Foot
+"Liverpool vs. Manchester United Match Report – Sunday January 5, 2025North West Derby",Mohamed Salah,0.02,0.00,Blocked,14,Left Foot
+"Nottingham Forest vs. Liverpool Match Report – Tuesday January 14, 2025",Mohamed Salah,0.07,0.00,Off Target,14,Left Foot
+"Nottingham Forest vs. Liverpool Match Report – Tuesday January 14, 2025",Mohamed Salah,0.17,0.00,Blocked,12,Left Foot
+"Nottingham Forest vs. Liverpool Match Report – Tuesday January 14, 2025",Mohamed Salah,0.05,0.00,Off Target,13,Left Foot
+"Nottingham Forest vs. Liverpool Match Report – Tuesday January 14, 2025",Mohamed Salah,0.06,0.18,Saved,13,Left Foot
+"Nottingham Forest vs. Liverpool Match Report – Tuesday January 14, 2025",Mohamed Salah,0.07,0.00,Blocked,12,Left Foot
+"Nottingham Forest vs. Liverpool Match Report – Tuesday January 14, 2025",Mohamed Salah,0.05,0.00,Off Target,9,Left Foot
+"Brentford vs. Liverpool Match Report – Saturday January 18, 2025",Mohamed Salah,0.04,0.25,Saved,13,Right Foot
+"Brentford vs. Liverpool Match Report – Saturday January 18, 2025",Mohamed Salah,0.10,0.00,Blocked,12,Left Foot
+"Brentford vs. Liverpool Match Report – Saturday January 18, 2025",Mohamed Salah,0.05,0.00,Off Target,21,Left Foot
+"Liverpool vs. Ipswich Town Match Report – Saturday January 25, 2025",Mohamed Salah,0.04,0.00,Blocked,17,Left Foot
+"Liverpool vs. Ipswich Town Match Report – Saturday January 25, 2025",Mohamed Salah,0.04,0.00,Blocked,17,Left Foot
+"Liverpool vs. Ipswich Town Match Report – Saturday January 25, 2025",Mohamed Salah,0.16,0.55,Goal,5,Left Foot
+"Bournemouth vs. Liverpool Match Report – Saturday February 1, 2025",Mohamed Salah,0.03,0.18,Saved,29,Left Foot
+"Bournemouth vs. Liverpool Match Report – Saturday February 1, 2025",Mohamed Salah,0.01,0.00,Off Target,29,Left Foot
+"Bournemouth vs. Liverpool Match Report – Saturday February 1, 2025",Mohamed Salah,0.05,0.72,Goal,14,Left Foot
