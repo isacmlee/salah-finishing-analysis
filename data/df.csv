@@ -17,10 +17,12 @@ match,player,xG,PSxG,outcome,distance,body_part
 "Liverpool vs. Bournemouth Match Report – Saturday September 21, 2024",Mohamed Salah,0.27,0.59,Saved,6,Left Foot
 "Liverpool vs. Bournemouth Match Report – Saturday September 21, 2024",Mohamed Salah,0.17,0.00,Blocked,10,Right Foot
 "Wolverhampton Wanderers vs. Liverpool Match Report – Saturday September 28, 2024",Mohamed Salah,0.49,0.00,Off Target,17,Right Foot
+"Wolverhampton Wanderers vs. Liverpool Match Report – Saturday September 28, 2024",Mohamed Salah (pen),0.79,0.60,Goal,13,Left Foot
 "Wolverhampton Wanderers vs. Liverpool Match Report – Saturday September 28, 2024",Mohamed Salah,0.04,0.05,Saved,19,Left Foot
 "Crystal Palace vs. Liverpool Match Report – Saturday October 5, 2024",Mohamed Salah,0.03,0.00,Blocked,17,Left Foot
 "Crystal Palace vs. Liverpool Match Report – Saturday October 5, 2024",Mohamed Salah,0.18,0.23,Saved,11,Left Foot
 "Liverpool vs. Chelsea Match Report – Sunday October 20, 2024",Mohamed Salah,0.02,0.00,Blocked,21,Left Foot
+"Liverpool vs. Chelsea Match Report – Sunday October 20, 2024",Mohamed Salah (pen),0.79,0.79,Goal,13,Left Foot
 "Arsenal vs. Liverpool Match Report – Sunday October 27, 2024",Mohamed Salah,0.03,0.00,Off Target,29,Left Foot
 "Arsenal vs. Liverpool Match Report – Sunday October 27, 2024",Mohamed Salah,0.03,0.13,Saved,8,Right Foot
 "Arsenal vs. Liverpool Match Report – Sunday October 27, 2024",Mohamed Salah,0.29,0.79,Goal,13,Left Foot
@@ -34,10 +36,12 @@ match,player,xG,PSxG,outcome,distance,body_part
 "Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.04,0.00,Off Target,9,Left Foot
 "Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.12,0.19,Saved,9,Left Foot
 "Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.52,0.88,Goal,17,Left Foot
+"Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah (pen),0.79,0.97,Goal,13,Left Foot
 "Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.16,0.00,Off Target,14,Left Foot
 "Southampton vs. Liverpool Match Report – Sunday November 24, 2024",Mohamed Salah,0.18,0.00,Woodwork,6,Left Foot
 "Liverpool vs. Manchester City Match Report – Sunday December 1, 2024",Mohamed Salah,0.53,0.00,Off Target,16,Left Foot
 "Liverpool vs. Manchester City Match Report – Sunday December 1, 2024",Mohamed Salah,0.03,0.00,Off Target,18,Left Foot
+"Liverpool vs. Manchester City Match Report – Sunday December 1, 2024",Mohamed Salah (pen),0.79,0.80,Goal,13,Left Foot
 "Newcastle United vs. Liverpool Match Report – Wednesday December 4, 2024",Mohamed Salah,0.04,0.00,Blocked,12,Left Foot
 "Newcastle United vs. Liverpool Match Report – Wednesday December 4, 2024",Mohamed Salah,0.44,0.96,Goal,5,Right Foot
 "Newcastle United vs. Liverpool Match Report – Wednesday December 4, 2024",Mohamed Salah,0.07,0.00,Woodwork,10,Right Foot
@@ -66,6 +70,7 @@ match,player,xG,PSxG,outcome,distance,body_part
 "West Ham United vs. Liverpool Match Report – Sunday December 29, 2024",Mohamed Salah,0.06,0.00,Off Target,15,Left Foot
 "West Ham United vs. Liverpool Match Report – Sunday December 29, 2024",Mohamed Salah,0.29,0.00,Off Target,16,Left Foot
 "Liverpool vs. Manchester United Match Report – Sunday January 5, 2025North West Derby",Mohamed Salah,0.07,0.00,Off Target,15,Left Foot
+"Liverpool vs. Manchester United Match Report – Sunday January 5, 2025North West Derby",Mohamed Salah (pen),0.79,0.75,Goal,13,Left Foot
 "Liverpool vs. Manchester United Match Report – Sunday January 5, 2025North West Derby",Mohamed Salah,0.12,0.00,Off Target,24,Left Foot
 "Liverpool vs. Manchester United Match Report – Sunday January 5, 2025North West Derby",Mohamed Salah,0.02,0.00,Blocked,14,Left Foot
 "Nottingham Forest vs. Liverpool Match Report – Tuesday January 14, 2025",Mohamed Salah,0.07,0.00,Off Target,14,Left Foot
@@ -81,5 +86,6 @@ match,player,xG,PSxG,outcome,distance,body_part
 "Liverpool vs. Ipswich Town Match Report – Saturday January 25, 2025",Mohamed Salah,0.04,0.00,Blocked,17,Left Foot
 "Liverpool vs. Ipswich Town Match Report – Saturday January 25, 2025",Mohamed Salah,0.16,0.55,Goal,5,Left Foot
 "Bournemouth vs. Liverpool Match Report – Saturday February 1, 2025",Mohamed Salah,0.03,0.18,Saved,29,Left Foot
+"Bournemouth vs. Liverpool Match Report – Saturday February 1, 2025",Mohamed Salah (pen),0.79,0.87,Goal,13,Left Foot
 "Bournemouth vs. Liverpool Match Report – Saturday February 1, 2025",Mohamed Salah,0.01,0.00,Off Target,29,Left Foot
 "Bournemouth vs. Liverpool Match Report – Saturday February 1, 2025",Mohamed Salah,0.05,0.72,Goal,14,Left Foot
